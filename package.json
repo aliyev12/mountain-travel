@@ -1,0 +1,27 @@
+{
+  "name": "mountain-travel",
+  "version": "1.0.0",
+  "description": "Landing page for a mountains travel agency",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliyev12/mountain-travel.git"
+  },
+  "keywords": [
+    "mountain",
+    "travel",
+    "camping"
+  ],
+  "author": "Abdul Aliyev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliyev12/mountain-travel/issues"
+  },
+  "homepage": "https://aliyev12.github.io/mountain-travel",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
